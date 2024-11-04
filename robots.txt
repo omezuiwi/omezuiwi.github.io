@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omezuiwi.github.io/EXD/sitemap_index.txt
+Sitemap: https://omezuiwi.github.io/SQE/sitemap_index.txt
+Sitemap: https://omezuiwi.github.io/bSK/sitemap_index.txt
+Sitemap: https://omezuiwi.github.io/lOk/sitemap_index.txt
